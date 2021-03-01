@@ -1,0 +1,261 @@
+#EXTM3U
+
+*** NACIONALES ***
+
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png",AZTECA UNO HD
+http://tecnotv.club/wws/geomex2.php?c=7&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="MEXICO"  tvg-logo="https://i.imgur.com/qJmw9IL.png",LAS ESTRELLAS HD
+http://tecnotv.club/wws/geomex2.php?c=1784&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Logo_Imagen_Televisi%C3%B3n_2016.png",IMAGEN TV HD  
+http://tecnotv.club/wws/geomex2.php?c=2606&p=3&k=srregio&f=.m3u8    
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png",MULTIMEDIOS HD
+http://tecnotv.club/wws/geomex2.php?c=2882&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png",CANAL 5 HD (2)
+http://tecnotv.club/wws/geomex2.php?c=1785&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/GIe2YOP.png",MVS TV
+http://tecnotv.club/wws/geomex2.php?c=2149&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png",AZTECA 7 HD 
+http://tecnotv.club/wws/geomex2.php?c=317&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/lChFEWt.png",TVC
+http://tecnotv.club/wws/geomex2.php?c=2156&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Nueve_%282018_logo%29.png",NU9VE HD
+http://tecnotv.club/wws/geomex2.php?c=1783&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="MEXICO" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Mexiquense-TV-en-vivo-Online.png",MEXIQUENSE TV
+http://tecnotv.club/wws/geomex2.php?c=44&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://www.mexicoescultura.com/galerias/espacios/principal/canalonce.png",ONCE HD 
+http://tecnotv.club/wws/geomex2.php?c=25&p=3&k=srregio&f=.m3u8 
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png",TELEMUNDO
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/654?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" ,UNIVISION 
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/668?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png",GALAVISION
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/556
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Logo_CanalOnce.png",CANAL ONCE
+http://tecnotv.club/wws/geomex2.php?c=1942&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/iGTI8Ns.png",CANAL DEL CONGRESO
+http://tecnotv.club/wws/geomex2.php?c=2331&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/Capital-21-TV-en-vivo-Online.png" tvg-country="US" tvg-url="" group-title="English", CAPITAL 21
+https://video.cdmx.gob.mx/livestream/stream.m3u8
+#EXTINF:-1 group-title="MEXICO" tvg-logo="https://www.radioformula.com.mx/wp-content/uploads/2019/01/favicon_RF_2x_02.png",TELEFORMULA SD
+http://tecnotv.club/wws/geomex2.php?c=32&p=3&k=srregio&f=.m3u8 
+
+
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png",FOROTV HD
+http://tecnotv.club/wws/geomex2.php?c=4&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://i.imgur.com/tvLt3bI.png",ADN 40 HD
+http://tecnotv.club/wws/geomex2.php?c=184&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png",MILENIO HD
+http://tecnotv.club/wws/geomex2.php?c=1250&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/El_Financiero_Logo.svg/1280px-El_Financiero_Logo.svg.png",EL FINANCIERO HD 
+http://tecnotv.club/wws/geomex2.php?c=1649&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png",CNN
+http://tecnotv.club/wws/geomex2.php?c=185&p=3&k=srregio&f=.m3u8   
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png/1200px-Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png",CNN Ñ SD
+http://tecnotv.club/wws/geomex2.php?c=187&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/768px-Fox_News_Channel_logo.svg.png",FOXN EWS
+http://tecnotv.club/wws/geomex2.php?c=188&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1280px-New_Bloomberg_Logo.svg.png",BLOOMBERG 
+http://tecnotv.club/wws/geomex2.php?c=190&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/1200px-BBC_News_2019.svg.png",BBC SD
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MSNBC_2015_logo.svg/1280px-MSNBC_2015_logo.svg.png" group-title="Undefined",MSNBC
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/596?checkedby:iptvcat.com
+http://tecnotv.club/wws/geomex2.php?c=191&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png",NTN 24
+http://tecnotv.club/wws/geomex2.php?c=194&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1280px-Deutsche_Welle_symbol_2012.svg.png",DW 
+http://tecnotv.club/wws/geomex2.php?c=203&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png",RT
+http://tecnotv.club/wws/geomex2.php?c=999&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://i.imgur.com/S1fYBii.png",IMAGEN MULTICAST
+http://tecnotv.club/wws/geomex2.php?c=1449&p=3&k=srregio&f=.m3u8   
+ #EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://cdn.mitvstatic.com/channels/cl_rt-tv-russia-today_m.png",RT ESPAÑOL
+http://tecnotv.club/wws/geomex2.php?c=2091&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 group-title="NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/635px-France24.png",FRANCE 24
+http://tecnotv.club/wws/geomex2.php?c=2402&p=3&k=srregio&f=.m3u8
+
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/MTV_Live_HD_2013.png",MTV LIVE
+http://tecnotv.club/wws/geomex2.php?c=211&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/1472px-MTV_Logo_2010.svg.png",MTV
+http://tecnotv.club/wws/geomex2.php?c=212&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/MTV_Hits_2013_logo.svg",MTV HITS SD
+http://tecnotv.club/wws/geomex2.php?c=213&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.858494140_MTV80s2020.png.63fb573ecfb43ae8cd68b887ba0c892e.png",VH1 CLASSIC SD
+http://tecnotv.club/wws/geomex2.php?c=214&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Telehit_Urbano_2019.png",TELEHIT URBANO SD
+http://tecnotv.club/wws/geomex2.php?c=218&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Telehit_Plus_Logo_Octubre_2017.png",TELEHIT +
+http://tecnotv.club/wws/geomex2.php?c=220&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Bandamax_2017.svg/revision/latest/scale-to-width-down/340?cb=20200509023508&path-prefix=es",BANDAMAX SD
+http://tecnotv.club/wws/geomex2.php?c=221&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png",VH1 HD
+http://tecnotv.club/wws/geomex2.php?c=334&p=3&k=srregio&f=.m3u8
+
+
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png",TOONCAST
+http://tecnotv.club/wws/geomex2.php?c=108&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png",DISCOVERY KIDS
+http://tecnotv.club/wws/geomex2.php?c=109&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png",NICK
+http://tecnotv.club/wws/geomex2.php?c=110&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png",DISNEY XD
+http://tecnotv.club/wws/geomex2.php?c=111&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Cartoon_Network_1992_logo.svg/1200px-Cartoon_Network_1992_logo.svg.png",CARTOON NETWORK
+http://tecnotv.club/wws/geomex2.php?c=112&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png",DISNEY CHANNEL
+http://tecnotv.club/wws/geomex2.php?c=113&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png",popERANG
+http://tecnotv.club/wws/geomex2.php?c=115&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Nicktoons_UK_Logo_2010.svg/1200px-Nicktoons_UK_Logo_2010.svg.png",NICKTOONS SD 
+http://tecnotv.club/wws/geomex2.php?c=1708&p=3&k=srregio&f=.m3u8   
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Nick_2_Logo_alternative.png",NICK 2  
+http://tecnotv.club/wws/geomex2.php?c=2147&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png",NAT GEO KIDS  
+http://tecnotv.club/wws/geomex2.php?c=2373&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/BitMelogo.png/1200px-BitMelogo.png",BIT ME  
+http://tecnotv.club/wws/geomex2.php?c=2591&p=3&k=srregio&f=.m3u8
+
+ 
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1280px-2019_Discovery_logo.svg.png",DISCOVERY CHANNEL
+http://tecnotv.club/wws/geomex2.php?c=86&p=3&k=srregio&f=.m3u8   
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1000px-History_Logo.svg.png",HISTORY
+http://tecnotv.club/wws/geomex2.php?c=89&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png",NAT GEO  
+http://tecnotv.club/wws/geomex2.php?c=91&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png",NAT GEO WILD
+http://tecnotv.club/wws/geomex2.php?c=92&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png",DISCOVERY THEATER
+http://tecnotv.club/wws/geomex2.php?c=95&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/H%26h_Logo.svg/1280px-H%26h_Logo.svg.png",H&H
+http://tecnotv.club/wws/geomex2.php?c=96&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png",DISCOVERY SCIENCE  
+http://tecnotv.club/wws/geomex2.php?c=98&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png",DISCOVERY WORLD
+http://tecnotv.club/wws/geomex2.php?c=101&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/2084px-Logo_TVE-Internacional.svg.png",TVE
+http://tecnotv.club/wws/geomex2.php?c=198&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1042px-Food_Network_Logo.svg.png",FOOD NETWORK 
+http://tecnotv.club/wws/geomex2.php?c=2145&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png",STAR TVE 
+http://tecnotv.club/wws/geomex2.php?c=2375&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png",DISCOVERY TURBO
+http://tecnotv.club/wws/geomex2.php?c=2379&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="CULTURA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/CuriosityStream_new.png",CURIOSITY STREAM
+http://tecnotv.club/wws/geomex2.php?c=2594&p=3&k=srregio&f=.m3u8
+
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Telemundo_Internacional_Logo_%282018-Presente%29.png/revision/latest/scale-to-width-down/340?cb=20181101133212&path-prefix=es",TELEMUNDO INTERNACIONAL
+http://tecnotv.club/wws/geomex2.php?c=85&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",SONY  
+http://tecnotv.club/wws/geomex2.php?c=48&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://i.pinimg.com/originals/4e/fd/fd/4efdfddc6dafa48064a41f9b6f1d6293.png",E!
+http://tecnotv.club/wws/geomex2.php?c=55&p=3&k=srregio&f=.m3u8   
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/1280px-SYFY.svg.png",SYFY
+http://tecnotv.club/wws/geomex2.php?c=59&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png",A&E
+http://tecnotv.club/wws/geomex2.php?c=62&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png",AXN
+http://tecnotv.club/wws/geomex2.php?c=64&p=3&k=srregio&f=.m3u8   
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/SundanceTVlogo.png",SUNDANCE TV
+http://tecnotv.club/wws/geomex2.php?c=69&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png",TNT SERIES
+http://tecnotv.club/wws/geomex2.php?c=71&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/El_Gourmet_2016.png/revision/latest/scale-to-width-down/340?cb=20190606041345&path-prefix=es",GOURMET 
+http://tecnotv.club/wws/geomex2.php?c=74&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Star_Life_2021.png/1200px-Star_Life_2021.png",STAR LIFE
+http://tecnotv.club/wws/geomex2.php?c=77&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png",DISTRITO COMEDIA SD
+http://tecnotv.club/wws/geomex2.php?c=78&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/1200px-Tlnovelas_2011_logo.svg.png",TL NOVELAS SD
+http://tecnotv.club/wws/geomex2.php?c=83&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1200px-Logo_Lifetime_2020.svg.png",LIFETIME 
+http://tecnotv.club/wws/geomex2.php?c=94&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png",ANTENA 3
+http://tecnotv.club/wws/geomex2.php?c=199&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/640px-Star_Channel_2020.svg.png" tvg-country="US" tvg-url="" group-title="English",STAR HD 
+http://tecnotv.club/wws/geomex2.php?c=201&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",WARNER HD 
+http://tecnotv.club/wws/geomex2.php?c=205&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png",UNIVERSAL HD
+http://tecnotv.club/wws/geomex2.php?c=207&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png",FX HD
+http://tecnotv.club/wws/geomex2.php?c=209&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png",TRUTV HD
+http://tecnotv.club/wws/geomex2.php?c=215&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Revista_%C2%A1HOLA%21.png",HOLA TV HD
+http://tecnotv.club/wws/geomex2.php?c=219&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png",COMEDY CENTRAL
+http://tecnotv.club/wws/geomex2.php?c=340&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1200px-Unicable_logo.svg.png",UNICABLE
+http://tecnotv.club/wws/geomex2.php?c=1499&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg/1280px-Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg.png",MAS CHIC
+http://tecnotv.club/wws/geomex2.php?c=1842&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Atreseries_2015.svg/revision/latest/scale-to-width-down/340?cb=20200629065737",A3SERIES
+http://tecnotv.club/wws/geomex2.php?c=2113&p=3&k=srregio&f=.m3u8
+
+
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Atrescine_logo.svg/1200px-Atrescine_logo.svg.png",A3CINE 
+http://tecnotv.club/wws/geomex2.php?c=3112&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://static.wikia.nocookie.net/adult-swim/images/c/cd/TBS.png/revision/latest?cb=20200421171225&path-prefix=es",TBS SD  
+http://tecnotv.club/wws/geomex2.php?c=81&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.DePeliculaPlus-1.png.5ffaf7150f40e959b88e31a35fff89e8.png",DE PELICULA + 
+http://tecnotv.club/wws/geomex2.php?c=121&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.GoldenPlus.png.2bb811abb24ea652e0afb3148038747e.png",GOLDEN +
+http://tecnotv.club/wws/geomex2.php?c=122&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Golden_LA_%282020%29.png",GOLDEN
+http://tecnotv.club/wws/geomex2.php?c=123&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Golden_Edge_LA_%282020%29.png",GOLDEN EDGE
+http://tecnotv.club/wws/geomex2.php?c=124&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png",TNT 
+http://tecnotv.club/wws/geomex2.php?c=126&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png",TCM
+http://tecnotv.club/wws/geomex2.php?c=128&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://i.pinimg.com/originals/d6/6b/b5/d66bb576495837a6336a136895c0ee31.png",SPACE
+http://tecnotv.club/wws/geomex2.php?c=129&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png",AMC 
+http://tecnotv.club/wws/geomex2.php?c=131&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png",STUDIO UNIVERSAL
+http://tecnotv.club/wws/geomex2.php?c=132&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png",I SAT  
+http://tecnotv.club/wws/geomex2.php?c=135&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/06/Logo-Film-Arts.png",FILMS & ARTS
+http://tecnotv.club/wws/geomex2.php?c=137&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png",FXM
+http://tecnotv.club/wws/geomex2.php?c=138&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarSeries_Logo2021_FondoClaro.png.cb78e0cf215c6116d1ea8d275cc08387.png",STAR SERIES
+http://tecnotv.club/wws/geomex2.php?c=139&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://morbido.tv/images/logo-negro.png",MORBIDO
+http://tecnotv.club/wws/geomex2.php?c=140&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/800px-Star_Hits_2020.svg.png",STAR MOVIES 
+http://tecnotv.club/wws/geomex2.php?c=146&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png",CINECANAL
+http://tecnotv.club/wws/geomex2.php?c=149&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png",CINEMAX 
+http://tecnotv.club/wws/geomex2.php?c=158&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://i.imgur.com/RoAsLGp.png",DE PELICULA SD
+http://tecnotv.club/wws/geomex2.php?c=335&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/Star_Action_2021.png/revision/latest/scale-to-width-down/340?cb=20210204000653&path-prefix=es",STAR ACTION
+http://tecnotv.club/wws/geomex2.php?c=336&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Paramount.png",PARAMOUNT CHANNEL 
+http://tecnotv.club/wws/geomex2.php?c=1726&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarCinema_Logo2021_FondoClaro.png.1f7c2778a8012927edfd5c9ee5f2d585.png",STAR CINEMA SD
+http://tecnotv.club/wws/geomex2.php?c=1729&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Star_Classics.png",STAR CLASSICS SD
+http://tecnotv.club/wws/geomex2.php?c=1732&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="https://i.imgur.com/s2CJnYc.png",AZ CINEMA 
+http://tecnotv.club/wws/geomex2.php?c=1787&p=3&k=srregio&f=.m3u8
+
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png",ESPN 
+http://tecnotv.club/wws/geomex2.php?c=168&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png",FOX SPORTS
+http://tecnotv.club/wws/geomex2.php?c=170&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png",TUDN HD 
+http://tecnotv.club/wws/geomex2.php?c=1049&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Claro_Sports_logo.svg",CLARO SPORTS HD  
+http://tecnotv.club/wws/geomex2.php?c=2564&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1200px-ESPN_wordmark.svg.png",ESPN 2
+http://tecnotv.club/wws/geomex2.php?c=169&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png",FOX SPORTS 2
+http://tecnotv.club/wws/geomex2.php?c=172&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png",FOX SPORTS 3 
+http://tecnotv.club/wws/geomex2.php?c=178&p=3&k=srregio&f=.m3u8  
