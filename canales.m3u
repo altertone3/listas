@@ -13,36 +13,54 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/111.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="-",DISCOVERY ID
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/220.m3u8
-#EXTINF:-1 tvg-logo=""-",UNIVERSAL CRIME
-http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/144836.m3u8
 #EXTINF:-1 tvg-logo=""-",UNIVERSAL
 http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/62681
 #EXTINF:-1 tvg-logo=""-",DISCOVERY TLC
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/124.m3u8
+#EXTINF:-1 tvg-logo=""-",DISCOVERY H&H
+http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/62826
 #EXTINF:-1 tvg-logo=""-",DISCOVERY THEATER
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/217.m3u8
 #EXTINF:-1 tvg-logo=""-",DISCOVERY SCIENCE
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/216.m3u8
 #EXTINF:-1 tvg-logo=""-",ANIMAL PLANET
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/75.m3u8
+#EXTINF:-1 tvg-logo=""-",DISCOVERY TURBO
+http://167.114.156.136:25461/live/INFINITV/ZX89NM22/230.m3u8
+#EXTINF:-1 tvg-logo=""-",H2
+http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/62795
 #EXTINF:-1 tvg-logo=""-",EL GOURMET
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/219.m3u8
+#EXTINF:-1 tvg-logo=""-",MTV 80S
+http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/62671
 
 
 #EXTINF:-1 tvg-logo="" group-title="-",WARNER
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/59.m3u8
 #EXTINF:-1 tvg-logo="" group-title="-",GOLDEN EDGE
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/181.m3u8
+#EXTINF:-1 tvg-logo="" group-title="-",GOLDEN 
+http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/62798
+#EXTINF:-1 tvg-logo="" group-title="-",PARAMOUNT
+http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/62754
 #EXTINF:-1 tvg-logo=""-",TNT
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/57.m3u8
+#EXTINF:-1 tvg-logo=""-",TCM
+http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/62724
 #EXTINF:-1 tvg-logo=""-",A&E
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/178.m3u8
+#EXTINF:-1 tvg-logo=""-",LIFETIME
+http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/62785
 #EXTINF:-1 tvg-logo=""-",SONY
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/53.m3u8
 #EXTINF:-1 tvg-logo=""-",SYFY
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/80.m3u8
 #EXTINF:-1 tvg-logo=""-",FX
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/70.m3u8
+#EXTINF:-1 tvg-logo=""-",DISTRITO COMEDIA
+http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/62818
+#EXTINF:-1 tvg-logo=""-",COMEDY CENTRAL
+http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/62811
 #EXTINF:-1 tvg-logo=""-",UNIVISION
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/173.m3u8
 #EXTINF:-1 tvg-logo=""-",TELEMUNDO
@@ -55,15 +73,27 @@ http://167.114.156.136:25461/live/INFINITV/ZX89NM22/165.m3u8
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/203.m3u8
 #EXTINF:-1 tvg-logo=""-",ANTENA 3
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/96.m3u8
+#EXTINF:-1 tvg-logo=""-",TVE
+http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/62691
 #EXTINF:-1 tvg-logo=""-",CARACOL
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/157.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="-",SIMPSONS
+#EXTINF:-1 tvg-logo="" group-title="-",SIMPSONS 24H
 https://stream-cdn-iad.vaughnsoft.net/play/live_simpson_maniahd189.flv?android_vs.ts.m3u8
-#EXTINF:-1 tvg-logo="" group-title="-",MALCOLM
-https://clubtv.link/j0623/top4565/24.php?c=malcomhd
-#EXTINF:-1 tvg-logo="" group-title="-",TERROR
-https://clubtv.link/j0623/top4565/24.php?c=terror_mania
+#EXTINF:-1 tvg-logo="" group-title="-",MALCOLM 24H
+https://stream-cdn-iad.vaughnsoft.net/play/live_malcomhd.flv?android_vs.ts.m3u8
+#EXTINF:-1 tvg-logo="" group-title="-",TERROR MANIA
+https://stream-cdn-iad.vaughnsoft.net/play/live_terror_mania.flv?android_vs.ts.m3u8
+
+#EXTINF:-1 tvg-logo=""-",UNIVERSAL CRIME
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/144836.m3u8
+#EXTINF:-1 tvg-logo=""-",AXN
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26922.m3u8
+#EXTINF:-1 tvg-logo=""-",FOOD NETWORK
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/26909.m3u8
+#EXTINF:-1 tvg-logo=""-",STAR CHANNEL
+http://zeuspro.xyz:43201/live/mariaperez2479/qlcCAQ9ZTr/1454.m3u8
+
 
 
